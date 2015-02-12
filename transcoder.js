@@ -259,8 +259,8 @@ function Transcoder(source) {
 		a.push("baseline");
 		a.push("-level");
 		a.push("30");
-		a.push("-preset");
-		a.push("fast");
+		//a.push("-preset");
+		//a.push("fast");
 
 /* -acodec libvo_aacenc -ab 64k -vcodec libx264 -vb 448k \ -f mp4 -movflags frag_keyframe+empty_moov \output.mp4 */ 
 	
