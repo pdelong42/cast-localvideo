@@ -43,4 +43,5 @@ I had to override PATH and LD_LIBRARY_PATH when running the Node app:
 ```
 This needed to be run on my Linux workstation, and accessed from my laptop,
 because the laptop would have quickly overheated from all the ffmpeg activity
-(plus, the workstation has eight cores, and I think my laptop only has two).
+(plus, the workstation has eight cores, and I think my laptop only has two).  
+My workstation can't be used as the client, because it doesn't have WiFi.
